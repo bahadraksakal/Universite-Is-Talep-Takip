@@ -2,6 +2,9 @@
 UI kısmında hem web hem de telegram botu kullanılan bir web projesi.  <br>
 Bu proje şuan doktora tezi olarak geliştirilmeye devam edildiği için pek fazla bilgi paylaşamıyorum.  <br>
 Genel olarak projede iş-talep-takip sisteminin daha kullanışlı olması amaçladık. Bu nedenle Telegram API yardımıyla hem sistemdeki personellerin, hem adminlerin, hemde diğer kullanıcıların telegram bot üzerinden iş-talep-takip sistemini kullanmasını sağladık.  <br>
+
+<h4>Daha detaylı bilgi için ekteki raporumu okuyabilirsiniz.</h4>
+
  <br> 
 Bu projede;
 - Veri Tabanı Tasarımı,
@@ -26,4 +29,18 @@ Not-2: Personel ve Adminler telegram botta bir sefere mahsus oturum açıyor. Bu
 Daha detaylı bilgi için ekteki raporumu okuyabilirsiniz. <br> 
 Hala sorularınız varsa bana mailimden ulaşabilirsiniz. <br> 
 
-
+<ol>
+  <li>
+      <h3 color="Red">Rapordan Görseller:</h3>
+      <ul>        
+        <li><img src="GorsellerReadme/1.png"></li> 
+        <li><img src="GorsellerReadme/2.png"></li>
+        <li><img src="GorsellerReadme/3.png"></li>
+        <li><img src="GorsellerReadme/4.png"></li>
+        <li><img src="GorsellerReadme/5.png"></li>
+        <li><img src="GorsellerReadme/6.png"></li>
+        <li><img src="GorsellerReadme/7.png"></li>
+        <li><img src="GorsellerReadme/8.png"></li>
+      </ul>
+  </li>
+</ol>
