@@ -1,4 +1,4 @@
-# Universite-Is-Talep-Takip
+# Job, Demand And Tracking Web App For University - PHP, JavaScript, SQL, Bootstrap
 
 ### Ahmet Bahadır Aksakal
 
@@ -22,8 +22,8 @@ You can read my report for more detailed information.
 
   * Database Design
   * Database
-  *Backend
-  *Frontend
+  * Backend
+  * Frontend
   * Integrated Telegram Bot
 
 ### Brief Summary of the Usage Area of the Application:
@@ -52,14 +52,14 @@ You can read my report for more information. If you still have questions, you ca
 
 ### Images from the report:
     
-    *   ![](GorsellerReadme/1.png)
-    *   ![](GorsellerReadme/2.png)
-    *   ![](GorsellerReadme/3.png)
-    *   ![](GorsellerReadme/4.png)
-    *   ![](GorsellerReadme/5.png)
-    *   ![](GorsellerReadme/6.png)
-    *   ![](GorsellerReadme/7.png)
-    *   ![](GorsellerReadme/8.png)
+  *   ![](GorsellerReadme/1.png)
+  *   ![](GorsellerReadme/2.png)
+  *   ![](GorsellerReadme/3.png)
+  *   ![](GorsellerReadme/4.png)
+  *   ![](GorsellerReadme/5.png)
+  *   ![](GorsellerReadme/6.png)
+  *   ![](GorsellerReadme/7.png)
+  *   ![](GorsellerReadme/8.png)
 
      
 ****
@@ -107,11 +107,11 @@ Daha fazla bilgi için raporumu okuyabilirsiniz. Hala sorularınız varsa bana m
 
 ### Rapordan Görseller:
     
-    *   ![](GorsellerReadme/1.png)
-    *   ![](GorsellerReadme/2.png)
-    *   ![](GorsellerReadme/3.png)
-    *   ![](GorsellerReadme/4.png)
-    *   ![](GorsellerReadme/5.png)
-    *   ![](GorsellerReadme/6.png)
-    *   ![](GorsellerReadme/7.png)
-    *   ![](GorsellerReadme/8.png)
+  *   ![](GorsellerReadme/1.png)
+  *   ![](GorsellerReadme/2.png)
+  *   ![](GorsellerReadme/3.png)
+  *   ![](GorsellerReadme/4.png)
+  *   ![](GorsellerReadme/5.png)
+  *   ![](GorsellerReadme/6.png)
+  *   ![](GorsellerReadme/7.png)
+  *   ![](GorsellerReadme/8.png)
